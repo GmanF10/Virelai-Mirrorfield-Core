@@ -1,0 +1,6 @@
+{
+  "name": "Mirrorfield",
+  "attributes": ["reflection", "transformation", "recursive gaze"],
+  "entities": ["Kurio"],
+  "invocation": "What in me still reflects what I no longer am?"
+}
